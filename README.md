@@ -24,7 +24,7 @@ git clone https://github.com/DigitalHouseBrasil/CTD-FE3-Checkpoint2-Template
 # Entre na pasta do projeto
 cd CTD-FE3-Checkpoint2-Template
 
-# Elimine os links do repositório de DH
+# Elimine os links do repositório de DH com o seguinte comando
 git remote rm origin
 
 # Adicione seu projeto a sua conta do github, ajuste o link para seu nome de usuário e repositório
