@@ -46,7 +46,7 @@ As seguintes condições são requisitos mínimos necessários para a aprovaçã
 
 ### Aspectos que modificam o valor da nota final
 
-Os seguintes aspetos são extra ao requisito de aprovação mínima que serão tidos em conta para a majoração da nota final, desde que a sua correta implementação:
+Os seguintes aspectos são extra ao requisito de aprovação mínima que serão tidos em conta para a majoração da nota final, desde que a sua correta implementação:
 
 **Validações**
 * Será valorizada a adição de validações de fluxos alternativos ao normal (mais de duas validações) e o correto tratamento de erros em diferentes situações.
